@@ -1,5 +1,9 @@
 🧠 Smart CLI Toolkit
 
+## 📸 Demo
+
+![Smart CLI Toolkit Demo](screenshot.png)
+
 A Python-based command-line productivity and automation toolkit built to demonstrate foundational software engineering skills through practical, real-world utilities.
 
 🎯 Purpose
