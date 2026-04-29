@@ -27,3 +27,17 @@ Expandable foundation for productivity systems
 Automatically organizes files by type
 Separates Images, Documents, and Others
 Uses Python filesystem automation (os, shutil, pathlib)
+
+🛠️ Technologies Used
+Python 3
+JSON for data persistence
+os module (file system interaction)
+shutil (file operations)
+pathlib (modern path handling)
+
+📚 Key Learning Outcomes
+Building modular CLI applications in Python
+Implementing persistent data storage systems
+Handling file system automation safely
+Structuring multi-feature programs
+Practicing real-world problem decomposition
